@@ -1,0 +1,14 @@
+dialog author {
+  title "Për autorin"
+  size -1 -1 107 98
+  option dbu
+  text "Autori: K|nG", 1, 8 23 95 9
+  text "Server: Dikun po!", 2, 8 13 95 8
+  text "Web: www.bit.ly/pikaking", 3, 8 34 95 8
+  text "Email:", 4, 8 44 24 8
+  text "Script: Pika S©®|pT Version 7.0", 5, 8 55 95 8
+
+  box "«¦¦[] Pika S©®|pT []¦¦»  By K|nG", 8, 2 3 103 77
+  button "PO", 9, 36 83 37 12, Ok
+  link "akukaj@msn.com", 10, 34 44 62 8
+}

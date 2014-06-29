@@ -1,0 +1,107 @@
+alias about {
+  dialog -m _about _about
+}
+
+dialog _about {
+  title "¤ Rregullorja «[] Pika S©®|pT []» ¤"
+  size -1 -1 410 500
+  box "",58, 1 -1 408 498
+  icon 1, 6 10 396 300,visual\rinia.jpg,1
+  box "Rregullorja",6, 6 310 398 65,center enable
+  text "«[] Pika S©®|pT []»  ¤ VersioN 2.0" ,2, 6 323 400 20, center
+  text "Created By KÓ|nG,3, 6 338 400 20, center enable
+  text "©•Rrregullorja per Aop•: 01-01-2006",5, 6 353 400 20, center
+  button "WwW.facbeook.com/arianitkukaj,13,270 380 134 25,left flat
+  button "eMaiL",14, 270 409 134 25,left flat
+  button Ò@ArianitKukajÓ,15,270 437 134 25,left flat
+  button "PO", 99, 270 465 134 25,ok flat
+  list 4, 6 380 260 120
+}
+
+on *:dialog:_about:sclick:13: run http://www.facebook.com/arianitkukaj
+on *:dialog:_about:sclick:14: run mailto:akukaj@msn.com?subject=«»Pika S©®|pT«» supprt
+on *:dialog:_about:sclick:15: run http://www.facebook.com/arianitkukaj
+on *:dialog:_about:sclick:1: ilj
+
+on *:dialog:_about:init:0: {
+  did -a _about 4 Rregullat per Operatoret............01.01.2007
+  did -a _about 4 
+  did -a _about 4 •BAN apo kick behen vetem kur jane 
+  did -a _about 4 domosdoshem per kanalin!   
+  did -a _about 4 •Mos behet ne asnje menyre ban ose kick 
+  did -a _about 4 me shkak "shajne ne privat". 
+  did -a _about 4 •Cdo kick ose ban me arsyen perkatese. 
+  did -a _about 4 po perhapet sa me shume midis nesh
+  did -a _about 4 •Banin e nje operatori nuk duhet ta heqe 
+  did -a _about 4 nje operator tjeter, vetem kur operatori 
+  did -a _about 4 eshte larguar nga kanali! 
+  did -a _about 4 •Absolutisht te mos perdoren scripte te huja, 
+  did -a _about 4 vetem "OdaScript" esht e lejuar. 
+  did -a _about 4 •Vendosja e BAN/KICK pa arsye, qofte  
+  did -a _about 4 nga pakujdesia e personit, qofte nga scripti 
+  did -a _about 4 qe ai perdor, e perseritur dy here, do te 
+  did -a _about 4 shoqerohet me paralajmerim te heqjes se accessit.
+  did -a _about 4 •Operatoret qe perdorin nje gjuhe dhe fjalor 
+  did -a _about 4 ofendues, nuk jane te denje te kene vendin qe ju 
+  did -a _about 4 eshte dhene. Automatikisht do tju hiqet accessi.  
+  did -a _about 4 •Per operatoret dihet qe kohe me pare qe ne 
+  did -a _about 4 marrjen e accessit qe perdorimi i scriptit eshte 
+  did -a _about 4 i demshem per operatorin vete se ne shumicen e 
+  did -a _about 4 rasteve eshte pare qe nuk dine ta kontrollojne 
+  did -a _about 4 nje pjese e mire ... prandaj 
+  did -a _about 4 dhe paralajmerimet do te behen ne baze te 
+  did -a _about 4 reagimit te tyre.. nese nuk do kete reagim 
+  did -a _about 4 POZITIV accessi humbet reagim negativ ndaj  
+  did -a _about 4 njeriut qe i kerkonsqarim dhe ndaj kontrollit 
+  did -a _about 4 mbi scriptin...per sa Nje nder keta mIRC 
+  did -a _about 4 programe shte edhe i perket atyre qe bejne 
+  did -a _about 4 kerkese per operator shtim ne halfop nuk ka... 
+  did -a _about 4 •Eshte e ndaluar per nje Aop te jape OP ose  
+  did -a _about 4 Halfop personave qe nuk kan access, keshtu nje 
+  did -a _about 4 dhenie e dhenie e tille acessi do te pasohet                  
+  did -a _about 4 me haqjen e access AOP.
+  did -a _about 4 •Nese nje Aop nuk vjen ne dhome per nje kohe 
+  did -a _about 4 te gjat atehere do ti hiqet acessi. Per arsyet 
+  did -a _about 4 e mungeses mund te flase me Sop Founder para 
+  did -a _about 4 se te largohet apo te dergoje memo. Kjo behet 
+  did -a _about 4 per te hapur vendet per ata qe kane deshire te 
+  did -a _about 4 rrine me gjate ne kanal edhe per te mos 
+  did -a _about 4 mbingarkuar listen e Aop. 
+  did -a _about 4 •Eshte kategorishisht e ndaluar te perdoret Boti 
+  did -a _about 4 i dhomes. Ketu perfshihen /msg bot ne kanal, 
+  did -a _about 4 vioce devioce ne menyre te tepruar edhe 
+  did -a _about 4 hop_e mundshem. Rastet e renda edhe te 
+  did -a _about 4 perseritura do te shoqerohen deri ne heqje acessi. 
+  did -a _about 4 •Ndalohet reklamimi i dhomes apo serverit ne 
+  did -a _about 4 servera te tjere i shoqeruar me flood apo ne 
+  did -a _about 4 menyre te perseritur.
+  did -a _about 4 •Nuk eshte e lejuar te futni nje nick tuaj 
+  did -a _about 4 apo dikuj tjeter ne grupin tuaj.
+  did -a _about 4 •Aop e #Odashqiptare kane te drejte te 
+  did -a _about 4 propozojne nje user per acess Aop. 
+  did -a _about 4 •Ne ç'do rast konflikti problemet sqarohen 
+  did -a _about 4 ne #terri dhe jo ne kanalin kryesor.Nuk do te 
+  did -a _about 4 tolerohen ofendimet, kercenimet midis anetareve 
+  did -a _about 4 te stafit.
+  did -a _about 4 •Asnjeri nga operatoret qe jan me acces e 
+  did -a _about 4 e nderrojn nickin kategorikisht ju hiqet accessi.
+  did -a _about 4 •Asnjeri operator qe eshte Away e qe eshte aktiv 
+  did -a _about 4 ne acces dmth ka acces ne dhomen #RiniaLive.Eu 
+  did -a _about 4 edhe gjindet me acces ne kanalin #Ndihme edhe 
+  did -a _about 4 #Services automatikisht i hiqet accesi pra secili 
+  did -a _about 4 operator qe eshte aktiv me ndejt me acces ne
+  did -a _about 4 kanalet perkatese.
+  did -a _about 4 •Operator qe eshte Online eshte i obliguar te 
+  did -a _about 4 rri ne dhomen #Ndihme edhe #Services pa perjashtime
+  did -a _about 4 
+  did -a _about 4 Me Nderime 
+  did -a _about 4
+  did -a _about 4 Stafi i
+  did -a _about 4
+  did -a _about 4 E-mail: akukaj@msn.com
+}
+
+alias adv {
+  //say 14¤12 $me 2is using14 %«¦¦[] Pika S©®|pT []¦¦».ver 4.2by 12K|nG
+  /say 14¤2 Get the latest release at2 2http://WwW.github.com/akukaj 
+}

